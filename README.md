@@ -70,13 +70,9 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.com/api?username=Harishsbb&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harishsbb&theme=radical&hide_border=true&fire=BC13FE&ring=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&v=1" width="48%" />
+  <img src="https://metrics.lecoq.io/Harishsbb?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata&theme=tokyonight" width="100%" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.com/api/top-langs/?username=Harishsbb&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117&v=1" />
-</div>
 
 ---
 
