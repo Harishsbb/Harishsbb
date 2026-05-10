@@ -139,6 +139,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,100:00FFFF&height=100&section=footer" width="100%" />
 </p>
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Harishsbb/Harishsbb/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <b>© 2024 HARISH K | SYSTEM STATUS: OPTIMAL</b>
 </div>
