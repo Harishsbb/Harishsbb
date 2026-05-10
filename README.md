@@ -118,7 +118,7 @@
 ### 🧱 3D Architecture
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Harishsbb/Harishsbb/output/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ---
