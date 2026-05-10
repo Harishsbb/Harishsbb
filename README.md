@@ -75,7 +75,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishsbb&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishsbb&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
 ---
