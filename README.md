@@ -70,8 +70,14 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Harishsbb?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata&theme=tokyonight" width="100%" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-175+-00FFFF?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/STREAK-2+ DAYS-BC13FE?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-OPTIMAL-00FF00?style=for-the-badge&logo=matrix&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.com/api/top-langs/?username=Harishsbb&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" width="400" />
+</div>
 
 
 ---
