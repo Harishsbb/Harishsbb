@@ -70,12 +70,12 @@
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harishsbb&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.com/api?username=Harishsbb&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harishsbb&theme=tokyonight&hide_border=true&fire=BC13FE&ring=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" width="48%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishsbb&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" />
+  <img src="https://github-readme-stats.com/api/top-langs/?username=Harishsbb&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
 ---
