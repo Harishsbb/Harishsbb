@@ -118,7 +118,7 @@
 ### 🧱 3D Architecture
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Harishsbb/Harishsbb/output/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Harishsbb/Harishsbb/3d-output/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ---
@@ -127,9 +127,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harishsbb/Harishsbb/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harishsbb/Harishsbb/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harishsbb/Harishsbb/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harishsbb/Harishsbb/snake-output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harishsbb/Harishsbb/snake-output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harishsbb/Harishsbb/snake-output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
