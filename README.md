@@ -76,7 +76,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.com/api/top-langs/?username=Harishsbb&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=BC13FE&text_color=FFFFFF&bg_color=0D1117" width="400" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,go,aws,mongodb,postgres,docker,firebase,tailwind,figma&theme=dark" />
 </div>
 
 
